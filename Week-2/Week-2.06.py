@@ -10,7 +10,7 @@ Input Format:
 
 Input consists of two integers that correspond to the age and weight of a person respectively.
 
-Output Format:
+Output Format: 
 
 Display True(IF ELIGIBLE)
 
