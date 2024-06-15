@@ -5,7 +5,7 @@ Given two Strings s1 and s2, remove all the characters from s1 which is present 
 
 
 Constraints
-
+ 
 1<= string length <= 200
 
 Sample Input 1
