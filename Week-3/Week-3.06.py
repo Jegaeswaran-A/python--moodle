@@ -15,7 +15,7 @@ Write a program that reads a year from the user and displays a message indicatin
 Sample Input 1
 
 1900
-
+ 
 Sample Output 1
 
 1900 is not a leap year.
