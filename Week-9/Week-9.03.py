@@ -1,5 +1,5 @@
 Winner of Election
-
+ 
 Given an array of names of candidates in an election. A candidate name in the array represents a vote cast to the candidate. Print the name of candidates received Max vote. If there is tie, print a lexicographically smaller name.
 
 Examples: 
