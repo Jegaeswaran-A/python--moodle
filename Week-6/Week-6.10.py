@@ -13,7 +13,7 @@ The first line contains S.
 Output Format:
 
 The first line contains EXTENSION.
-
+ 
 The second line contains DOMAIN.
 
 The third line contains USERNAME.
