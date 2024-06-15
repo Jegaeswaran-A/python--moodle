@@ -5,7 +5,7 @@ To find the frequency of numbers in a list and display in sorted order.
 Constraints: 
 
 1<=n, arr[i]<=100 
-
+ 
 Input: 
 
 1 68 79 4 90 68 1 4 5 
