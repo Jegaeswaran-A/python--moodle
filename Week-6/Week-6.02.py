@@ -5,7 +5,7 @@ Assume that the given string has enough memory. Don't use any extra space(IN-PLA
 
 
 Sample Input 1
-
+ 
 a2b4c6
 
 
