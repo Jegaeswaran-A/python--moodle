@@ -11,7 +11,7 @@ The next two lines contain the space-separated integer arrays to be compared.
 
 
 Sample Input:
-
+ 
 5 4
 
 1 2 8 6 5
