@@ -5,7 +5,7 @@ In the 1800s, the battle of Troy was led by Hercules. He was a superstitious per
 Input format:
 
 Line 1 has the total number of weapons
-
+ 
 Line 2 has the total number of Soldiers.
 
 Output  Format:
