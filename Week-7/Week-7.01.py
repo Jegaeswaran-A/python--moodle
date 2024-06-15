@@ -7,7 +7,7 @@ An abundant number is a number for which the sum of its proper divisors is great
 Input Format:
 
 Take input an integer from stdin
-
+ 
 Output Format:
 
 Return Yes if given number is Abundant. Otherwise, print No
