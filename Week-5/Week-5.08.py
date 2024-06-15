@@ -3,7 +3,7 @@ Merge Two Sorted Arrays Without Duplication
 Output is a merged array without duplicates.
 
 Input Format
-
+ 
 N1 - no of elements in array 1
 
 Array elements for array 1
