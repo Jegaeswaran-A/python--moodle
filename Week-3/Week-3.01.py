@@ -2,7 +2,7 @@ Admission Eligibility
 
 Write a program to find the eligibility of admission for a professional course based on the following criteria:
 
-Marks in Maths >= 65
+Marks in Maths >= 65 
 
 Marks in Physics >= 55
 
