@@ -6,7 +6,7 @@ Constraints
 
 1 ≤ n ≤ 1015
 
-1 ≤ p ≤ 109
+1 ≤ p ≤ 109 
 
 The first line contains an integer n, the number to factor.
 
