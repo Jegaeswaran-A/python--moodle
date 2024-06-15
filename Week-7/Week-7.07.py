@@ -15,7 +15,7 @@ Hint:
 An ugly number U can be expressed as: U = 2^a * 3^b * 5^c, where a, b and c are nonnegative integers.
 
 For example:
-
+  
 Test	Result
 
 print(checkUgly(6))	ugly 
