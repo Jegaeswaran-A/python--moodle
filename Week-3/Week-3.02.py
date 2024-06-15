@@ -8,7 +8,7 @@ Sample Input 1
 
 60
 
-60
+60 
 
 60
 
