@@ -10,7 +10,7 @@ Output Format:
 
 Output displays Yes if condition satisfies else prints No.
 
-Example Input:
+Example Input: 
 
 14
 
