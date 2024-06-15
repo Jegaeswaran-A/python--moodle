@@ -5,7 +5,7 @@ Write a python program to count all letters, digits, and special symbols respect
 
 
 For example:
-
+ 
 
 
 Input	Result
