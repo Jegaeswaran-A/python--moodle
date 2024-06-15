@@ -4,7 +4,7 @@ Ms. Sita, the faculty handling programming lab for you is very strict. Your seni
 
  
 
-Input Format: 
+Input Format:  
 
 Input consists of 2 integers.
 
