@@ -4,7 +4,7 @@ Write a program to find the count of unique digits in a given number N. The numb
 
 Assumption: The input number will be a positive integer number >= 1 and <= 25000.
 
-For e.g.
+For e.g. 
 
 If the given number is 292, the program should return 2 because there are only 2 unique digits '2' and '9' in this number
 
