@@ -12,7 +12,7 @@ Print the difference between sum of even and odd digits
 
 Example input:
 
-1453
+1453 
 
 Output:
 
