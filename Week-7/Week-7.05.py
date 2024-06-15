@@ -9,7 +9,7 @@ The only available coins are of values 1, 2, 3, 4
 Input Format:
 
 Integer input from stdin.
-
+ 
 Output Format:
 
 return the minimum number of coins required to meet the given target.
