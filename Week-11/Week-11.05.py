@@ -10,7 +10,7 @@ Output Format:
 
 Print the square root of the number or an error message if an exception occurs.
 
-For example:
+For example: 
 
 Input	Result
 
