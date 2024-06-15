@@ -6,7 +6,7 @@ Write a Python program to Zip two given lists of lists.
 
 Input:
 
-m : row size
+m : row sizee 
 
 n: column size
 
