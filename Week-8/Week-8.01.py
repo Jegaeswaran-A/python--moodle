@@ -4,7 +4,7 @@ Coders here is a simple task for you, Given string str. Your task is to check wh
 
 
 
-Examples:  
+Examples:   
 
 Input: str = "01010101010"
 
