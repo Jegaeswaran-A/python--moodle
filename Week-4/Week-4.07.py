@@ -9,7 +9,7 @@ Test Case 1
 Input
 
 4          
-
+ 
 Output
 
 1234 
