@@ -6,7 +6,7 @@ Sample Input 1
 
 i
 
-Sample Output 1
+Sample Output 1 
 
 It's a vowel.
 
