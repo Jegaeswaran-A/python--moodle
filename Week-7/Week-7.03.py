@@ -6,7 +6,7 @@ Input Format:
 
 
 
-Take an input integer from stdin.
+Take an input integer from stdin. 
 
 
 
