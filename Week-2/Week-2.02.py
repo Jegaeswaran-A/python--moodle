@@ -7,7 +7,7 @@ In London, every year during Dasara there will be a very grand doll show. People
 
 
 Sample Input
-
+ 
 10
 
 Sample Output
