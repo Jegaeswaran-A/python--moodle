@@ -2,7 +2,7 @@ Peak Element
 
 Given an list, find peak element in it. A peak element is an element that is greater than its neighbors.
 
-An element a[i] is a peak element if
+An element a[i] is a peak element if 
 
 A[i-1] <= A[i] >=a[i+1] for middle elements. [0<i<n-1]
 
