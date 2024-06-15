@@ -12,7 +12,7 @@ In the American keyboard:
 
  
 
-
+ 
 
 Example 1:
 
