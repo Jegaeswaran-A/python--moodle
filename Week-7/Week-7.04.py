@@ -11,7 +11,7 @@ Constraints
 1 <= orderValue< 10e100000
 
 Input
-
+ 
 The input consists of an integer orderValue, representing the total bill amount.
 
 Output
