@@ -5,7 +5,7 @@ Write a program to calculate and print the Electricity bill where the unit consu
 Unit                                                     Charge / Unit
 
 Upto 199                                             @1.20
-
+ 
 200 and above but less than 400        @1.50
 
 400 and above but less than 600        @1.80
