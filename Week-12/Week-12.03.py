@@ -5,7 +5,7 @@ Dr. John Wesley maintains a spreadsheet with student records for academic evalua
 
 
 Problem Statement:
-
+ 
 Create a Python-based solution that can parse input data representing a list of students with their respective marks and other details, and compute the average marks. The input may present these details in any order, so the solution must be adaptable to this variability.
 
 
