@@ -9,7 +9,7 @@ n : Number of elements
 List1: List of values
 
 Output
-
+ 
 Print "True" if list is strictly increasing or decreasing else print "False"
 
 
