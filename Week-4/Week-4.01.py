@@ -4,7 +4,7 @@ Determine the factors of a number (i.e., all positive integer values that evenly
 
 For example:
 
-Input	Result	
+Input	Result	 
 
 20	1 2 4 5 10 20	
 
