@@ -12,7 +12,7 @@ For example:
 
 Input	Result
 
-197	9
+197	9 
 
 
 
