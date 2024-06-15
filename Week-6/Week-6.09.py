@@ -8,7 +8,7 @@ Input:
 
 first
 
-second
+second 
 
 first
 
